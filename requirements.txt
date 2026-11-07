@@ -1,0 +1,8 @@
+customtkinter>=5.2
+requests>=2.31
+SpeechRecognition>=3.10
+pynput>=1.7
+sounddevice>=0.5.6
+pyttsx3>=2.99
+Pillow>=11.0
+yt-dlp>=2025.10.22
