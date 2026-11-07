@@ -10,7 +10,15 @@ A desktop AI assistant for Windows with AI chat, voice interaction, and quick ac
   </a>
 </p>
 
-Download the latest Windows executable from GitHub Releases.
+## 🛡️ VirusTotal Security Report
+
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/3725e225976b1f6d9492b0e1e13dd534d4549cff53e38665b8064b7b1d1091d2">
+    <img src="https://res.cloudinary.com/datfjlguq/image/upload/v1794059543/qpbrftdgfd93guxa56va.png"
+         width="180"
+         alt="View VirusTotal Security Report">
+  </a>
+</p>
 
 ## ✨ Features
 
