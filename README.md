@@ -2,6 +2,12 @@
 
 A desktop AI assistant for Windows with AI chat, voice interaction, and quick actions.
 
+## 📥 Download JARVIS
+
+[![Download JARVIS](https://img.shields.io/github/v/release/sawwqib/JARVIS-AI?label=Download%20JARVIS&style=for-the-badge)](https://github.com/sawwqib/JARVIS-AI/releases/latest)
+
+Download the latest Windows executable from GitHub Releases.
+
 ## ✨ Features
 
 - **AI Chat:** Ask questions and get spoken responses.
